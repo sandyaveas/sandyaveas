@@ -1,14 +1,5 @@
 ### Hi there, I'm [Sandeep!](https://github.com/sandyaveas) 👋
 
-<!---
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
---->
-
 <br />
 
 Hi, I'm Sandeep R. Trigunayat, a self-taught Full Stack Software Developer and Machine-learning enthusiast. I am passionate about technologies and love to learn new things.
