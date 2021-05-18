@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm a self-taught Full Stack Software Developer and Machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+I'm a self-taught Full Stack Software Developer and Machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
 <br />
 <b>Tech Stack</b>
