@@ -1,4 +1,4 @@
-### Hi there, I'm [Sandeep!](https://github.com/sandyaveas) 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Python" width="30px" height="30px">, I'm [Sandeep!](https://github.com/sandyaveas) 
 
 <br />
 
